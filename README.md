@@ -17,6 +17,10 @@ npx create-next-app -e https://github.com/PercyTuncar/next-template
 - **Modo Oscuro con `next-themes`**: Proporciona una experiencia visual adaptable con un modo oscuro incorporado.
 - **Orden, Fusión y Linting de Clases de Tailwind CSS**: Mantén tu código limpio y eficiente con herramientas de optimización de clases de Tailwind CSS.
 
+## Colabora
+
+Si eres un programador entusiasta y deseas contribuir a este proyecto, ¡te damos la bienvenida! Tu colaboración será muy apreciada, y como reconocimiento, mencionaremos a todos los colaboradores en este proyecto. Simplemente envía tus contribuciones a través de pull requests y únete a nuestra comunidad de desarrollo.
+
 ## Licencia
 
 Licenciado bajo la [licencia MIT](https://github.com/PercyTuncar/next-template/blob/main/LICENSE.md).
