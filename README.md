@@ -1,4 +1,4 @@
-# Next Template: Plantilla de Next.js 13 para construir aplicaciones con Radix UI y Tailwind CSS
+# Next Template: Plantilla de Next.js 13 para construir aplicaciones con Next UI y Tailwind CSS
 
 ## Uso
 
@@ -19,6 +19,6 @@ npx create-next-app -e https://github.com/PercyTuncar/next-template
 
 ## Licencia
 
-Licenciado bajo la [licencia MIT](https://github.com/shadcn/ui/blob/main/LICENSE.md).
+Licenciado bajo la [licencia MIT](https://github.com/PercyTuncar/next-template/blob/main/LICENSE.md).
 
 ¡Comienza tu proyecto con esta plantilla y ahorra tiempo en la configuración inicial!
