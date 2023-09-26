@@ -1,5 +1,5 @@
-import "@/styles/globals.css";
-import { siteConfig } from "@/config/site";
+"use client";
+import "@/styles/globals.css"; 
 import { fontSans } from "@/lib/fonts";
 import { cn } from "@/lib/utils";
 import { SiteHeader } from "@/components/site-header";

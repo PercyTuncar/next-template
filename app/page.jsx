@@ -1,7 +1,9 @@
-import Link from "next/link"
+"use client"
 
+import Link from "next/link"
 import { siteConfig } from "@/config/site"
-import { buttonVariants } from "@/components/ui/button"
+import { buttonVariants } from "@/components/ui/button" 
+import {Button} from "@nextui-org/react";
 
 export default function IndexPage() {
   return (
@@ -17,7 +19,8 @@ export default function IndexPage() {
         </p>
       </div>
       <div className="flex gap-4">
-        <Link
+      <Button >
+      <Link
           href={siteConfig.links.docs}
           target="_blank"
           rel="noreferrer"
@@ -25,7 +28,9 @@ export default function IndexPage() {
         >
           Documentación
         </Link>
-        <Link
+      </Button>
+      <Button > 
+      <Link
           target="_blank"
           rel="noreferrer"
           href={siteConfig.links.github}
@@ -33,6 +38,8 @@ export default function IndexPage() {
         >
           GitHub
         </Link>
+      </Button>
+       
       </div>
     </section>
   )
