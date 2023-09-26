@@ -11,7 +11,7 @@ npx create-next-app -e https://github.com/PercyTuncar/next-template
 ## Características
 
 - **Directorio de Aplicación Next.js 13**: Comienza tu proyecto en la última versión de Next.js con una estructura organizada.
-- **Radix UI Primitives**: Utiliza componentes accesibles y personalizables de Radix UI para una experiencia de usuario de alta calidad.
+- **Next UI Primitives**: Utiliza componentes accesibles y personalizables de Radix UI para una experiencia de usuario de alta calidad.
 - **Tailwind CSS**: Aprovecha la potencia de Tailwind CSS para un diseño atractivo y fácil de personalizar.
 - **Iconos de [Lucide](https://lucide.dev)**: Accede a una colección de iconos impresionantes para dar vida a tus aplicaciones.
 - **Modo Oscuro con `next-themes`**: Proporciona una experiencia visual adaptable con un modo oscuro incorporado.
