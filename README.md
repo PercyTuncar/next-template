@@ -1,3 +1,5 @@
+![Texto Alternativo](/public/screenshot.png)
+
 # Next Template: Plantilla de Next.js 13 para construir aplicaciones con Next UI y Tailwind CSS
 
 ## Uso
